@@ -15,7 +15,7 @@ namespace TahaAkben.Core
         static void Main()
         {
             // löyttt eklendi.
-
+            //ok
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
